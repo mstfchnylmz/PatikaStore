@@ -1,0 +1,6 @@
+module Pods_PatikaStore {
+  umbrella header "Pods-PatikaStore-umbrella.h"
+
+  export *
+  module * { export * }
+}
